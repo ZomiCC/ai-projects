@@ -8,5 +8,5 @@
 ### RAG实践与企业级优化方案
 ### spring ai 体验
 ### Coze、dify智能体实现总结
-### LLaMa Factory模型Lora微调、vllm模型部署
+###  Factory模型Lora微调、vllmLLaMa模型部署
 ### MCP不过如此
