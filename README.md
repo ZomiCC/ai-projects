@@ -1,1 +1,9 @@
 # ai-projects
+# 这是一个集成项目，用于上传记录自己实践过的LLM相关工程代码。
+
+## 重点涉及以下部分
+### 基于GPT2LMHeaderLMModel从零训练模型（熟悉训练）
+### Bert + PET/P-Tuning高效电商分类工程实现
+### spring ai 体验
+### Coze、dify智能体实现总结
+### LLaMa Factory模型Lora微调、vllm模型部署
